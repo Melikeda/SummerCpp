@@ -7,5 +7,6 @@ int main() {
 	string lastName = "Doe";
 	string fullName = firstName.append(lastName);  //you can also concatenate strings with the append() function
 	cout << fullName;
+	
 	return 0;
 }
