@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	string cars[4] = { "BMV", "FERRARi", "AUDi", "PORSCHE" };
+	string cars[4] = { "BMW", "FERRARi", "AUDi", "PORSCHE" };
 	cars[3] = "LAMBORGHiNi";
 	cout << cars[3] << "\n";
 
