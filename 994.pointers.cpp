@@ -17,8 +17,5 @@ int main() {
 	cout << ptr << "\n";
 	cout << &food << "\n";
 	
-
-
-	
 	return 0;
 }
